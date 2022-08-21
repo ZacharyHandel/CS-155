@@ -1,0 +1,6 @@
+<html>
+<head><title>UNA</title></head>
+<body style="background-color:#DB9F11;">
+<hl style="color:#46166B;">University of North Alabama</h1>
+</body>
+</html>
